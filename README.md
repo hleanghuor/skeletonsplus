@@ -1,5 +1,6 @@
 # Skeletonsplus 
 A Flutter package for building custom skeleton widgets to mimic the page's layout while loading.
+
 fork from package [skeletons](https://pub.dev/packages/skeletons) and migrate to support flutter 3.22
 
 ## Examples
