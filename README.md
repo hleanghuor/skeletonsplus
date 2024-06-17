@@ -18,7 +18,7 @@ fork from package [skeletons](https://pub.dev/packages/skeletons) and migrate to
 | ![light_dark_modes](gifs/light_dark_modes.gif)  | ![rtl](gifs/rtl.gif)  | ![custom_shimmer](gifs/custom_shimmer.gif)  |
 
 
-All examples can be found here [examples](https://github.com/badjio/skeletons/tree/master/example/lib/examples).
+All examples can be found here [examples](https://github.com/hleanghuor/skeletonsplus/tree/master/example/lib/examples).
 
 
 ## How To Use
@@ -26,7 +26,7 @@ All examples can be found here [examples](https://github.com/badjio/skeletons/tr
 Can be used by encapsulating the child widget in a Skeleton widget:
 
 ```dart
-import 'package:skeletons/skeletons.dart';
+import 'package:skeletonsplus/skeletonsplus.dart';
 
 Skeleton(
         isLoading: _isLoading,
@@ -186,6 +186,6 @@ ListView.builder(
 
 ## Issues and feedback
 
-For issues, please report [here](https://github.com/badjio/skeletons/issues). Contributions are welcome.
+For issues, please report [here](https://github.com/hleanghuor/skeletonsplus/issues). Contributions are welcome.
 
 
